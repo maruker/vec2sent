@@ -1,0 +1,12 @@
+[submodule "src/external/mos/mos"]
+	path = src/external/mos/mos
+	url = https://github.com/zihangdai/mos.git
+[submodule "src/external/InferSent"]
+	path = src/external/InferSent
+	url = https://github.com/facebookresearch/InferSent.git
+[submodule "src/external/geometric_embedding/geometric_embedding"]
+	path = src/external/geometric_embedding/geometric_embedding
+	url = https://github.com/fursovia/geometric_embedding.git
+[submodule "src/external/quick_thought/S2V"]
+	path = src/external/quick_thought/S2V
+	url = https://github.com/lajanugen/S2V.git

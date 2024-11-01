@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+venv
+
+# training and test data
+data/*
+
+# temporary outputs
+src/vec2sent/evaluation/bleu/bleu-hypothesis
+src/vec2sent/evaluation/bleu/bleu-reference
+
+# IDE
+.idea
