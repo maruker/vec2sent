@@ -5,7 +5,8 @@ __pycache__/
 venv
 
 # training and test data
-data/*
+data/test.en.2008
+data/train.en.2007
 
 # temporary outputs
 src/vec2sent/evaluation/bleu/bleu-hypothesis
